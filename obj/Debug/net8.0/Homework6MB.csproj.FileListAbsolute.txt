@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\GitHub\Homework6MB\obj\Debug\net8.0\Homework6MB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\GitHub\Homework6MB\obj\Debug\net8.0\Homework6MB.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\Homework6MB\obj\Debug\net8.0\Homework6MB.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\Homework6MB\obj\Debug\net8.0\Homework6MB.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\Homework6MB\obj\Debug\net8.0\Homework6MB.sourcelink.json
+C:\Users\Dell\Documents\GitHub\Homework6MB\bin\Debug\net8.0\Homework6MB.exe
+C:\Users\Dell\Documents\GitHub\Homework6MB\bin\Debug\net8.0\Homework6MB.deps.json
+C:\Users\Dell\Documents\GitHub\Homework6MB\bin\Debug\net8.0\Homework6MB.runtimeconfig.json
+C:\Users\Dell\Documents\GitHub\Homework6MB\bin\Debug\net8.0\Homework6MB.dll
+C:\Users\Dell\Documents\GitHub\Homework6MB\bin\Debug\net8.0\Homework6MB.pdb
+C:\Users\Dell\Documents\GitHub\Homework6MB\obj\Debug\net8.0\Homework6MB.dll
+C:\Users\Dell\Documents\GitHub\Homework6MB\obj\Debug\net8.0\refint\Homework6MB.dll
+C:\Users\Dell\Documents\GitHub\Homework6MB\obj\Debug\net8.0\Homework6MB.pdb
+C:\Users\Dell\Documents\GitHub\Homework6MB\obj\Debug\net8.0\Homework6MB.genruntimeconfig.cache
+C:\Users\Dell\Documents\GitHub\Homework6MB\obj\Debug\net8.0\ref\Homework6MB.dll
